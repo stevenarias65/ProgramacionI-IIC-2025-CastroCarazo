@@ -20,7 +20,7 @@ public class Habitacion {
     //Crear los metodos GET y SET
     //cuando decimos GET srive para obtener la informacion
     //cuando es SET establecemos la informacion 
-    private double getTamaño(){
+    public double getTamaño(){
         return tamaño;
     }
     

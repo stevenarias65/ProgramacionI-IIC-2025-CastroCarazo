@@ -29,6 +29,9 @@ public class Inicio {
        int retornoInformacion =  habitacion1.getNumeroHabitacion();
         System.out.println(habitacion1.getNumeroHabitacion());
         
+        
+        
+        
      
         
         
